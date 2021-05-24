@@ -1,0 +1,31 @@
+html, css, js
+
+------
+
+html
+
+------
+
+html -- css -- js
+-----
+
+Button
+
+html -- button, fontsize 20, font color - white, back -blue, edge -curve, js- stop sharing
+
+------
+5 button 
+
+-
+Responsive
+
+---
+
+CDN -- content delivey network
+
+Bootstrap 3, 4
+
+------
+
+
+ 
